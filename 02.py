@@ -1,3 +1,4 @@
+#calculate the distance between two points
 a=float(input("enter the first point"))
 b=float(input("enter the second point"))
 c=a-b
