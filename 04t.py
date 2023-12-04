@@ -1,3 +1,4 @@
+#pattern_2
 rows=10
 
 for i in range(1,rows+1):
