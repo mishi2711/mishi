@@ -1,0 +1,6 @@
+print(type(None))
+print(3*"Hello world ")
+print(True+True)
+print(True+False)
+print(False+False)
+print('''"hello" "world"''',''' ayz''',sep="-")
