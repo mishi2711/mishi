@@ -1,3 +1,4 @@
+#position
 pos = int(input("enter the position"))
 count = 0
 for i in range (1,1001):
