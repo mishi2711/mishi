@@ -1,3 +1,4 @@
+#print sum of all numbers till desired number
 n=int(input())
 if n<=100000 and n>=0:
     i=0
