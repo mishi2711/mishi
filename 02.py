@@ -1,7 +1,4 @@
-n=int(input("enter the number"))
-m=1
-fac=1
-while m<=n:
-    fac=fac*m
-    m+=1
-print("factorial of", n ,"is",fac)
+a=float(input("enter the first point"))
+b=float(input("enter the second point"))
+c=a-b
+print("the distance between the two points is", c)
