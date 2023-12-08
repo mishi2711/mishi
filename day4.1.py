@@ -1,0 +1,7 @@
+birth_year=int(input("print birth year"))
+current_year=int(input("print current year"))
+age=(current_year-birth_year)
+print(f"the age is{age}")
+firstname=(input("enter first name"))
+lastname=(input("enter last name"))
+print(f"hi{firstname}{lastname},good morning")
